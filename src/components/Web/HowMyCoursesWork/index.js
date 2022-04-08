@@ -1,0 +1,1 @@
+export {HowMyCoursesWork} from './HowMyCoursesWork'

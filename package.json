@@ -6,8 +6,18 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "@tinymce/tinymce-react": "^3.13.0",
+    "antd": "^4.16.13",
+    "jwt-decode": "^3.1.2",
+    "moment": "^2.29.1",
+    "node-sass": "^6.0.1",
+    "query-string": "^7.0.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-drag-sortable": "^1.0.6",
+    "react-dropzone": "^11.4.2",
+    "react-helmet": "^6.1.0",
+    "react-router-dom": "^5.3.0",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
@@ -34,5 +44,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "https://sharp-varahamihira-d88c25.netlify.app/"
 }

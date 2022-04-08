@@ -1,0 +1,1 @@
+export {PostsListWeb} from './PostsListWeb'

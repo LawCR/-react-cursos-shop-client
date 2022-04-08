@@ -1,0 +1,19 @@
+@import '../../../../styles/index.scss';
+
+.my-info {
+    padding-right: 30px;
+    img {
+        width: 200px;
+        margin-bottom: 20px;
+    }
+
+    h4 {
+        margin-bottom: 20px;
+        color: $primary-color-dark;
+        text-align: justify;
+    }
+
+    .social-links {
+        justify-content: space-evenly;
+    }
+}

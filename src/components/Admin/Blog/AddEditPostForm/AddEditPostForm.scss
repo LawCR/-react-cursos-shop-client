@@ -1,0 +1,23 @@
+@import '../../../../styles/index.scss';
+
+.add-edit-post-form {
+    text-align: center;
+
+    .ant-row {
+        margin-top: 5px;
+        margin-bottom: 5px;
+
+        .ant-input-prefix {
+            color: rgba($color: #000000, $alpha: 0.25);
+        }
+    }
+
+    .tow-tinymce {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .btn-submit {
+        width: 100%;
+    }
+}
